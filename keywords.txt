@@ -1,0 +1,7 @@
+TinkerController	KEYWORD1
+TinkerEvent	KEYWORD1
+TinkerMode	KEYWORD1
+getEvent	KEYWORD2
+setup	KEYWORD2
+TinkerMode_Default	KEYWORD2
+TinkerMode_Streaming	KEYWORD2

@@ -8,10 +8,16 @@ An Arduino library to compliment my Tinker Controller app: https://github.com/na
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [TinkerController-Library](#tinkercontroller-library)
+	- [Contributors](#contributors)
 	- [To Do List](#to-do-list)
 	- [License](#license)
 
 <!-- /TOC -->
+
+## Contributors
+
+- [Nathan Ramanathan](https://github.com/nathanRamaNoodles)-author
+- [Gil Maimon](https://github.com/gilmaimon)
 
 
 ## To Do List

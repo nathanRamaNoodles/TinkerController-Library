@@ -57,7 +57,7 @@ public:
         int num = readValue();
 
         TinkerEvent e;
-        e.ok = false;
+        e.ok = true;
         e.type = inputType;
         e.value = num;
         return e;
